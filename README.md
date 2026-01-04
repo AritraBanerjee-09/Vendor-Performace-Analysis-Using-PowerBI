@@ -23,6 +23,11 @@ The analysis is based on multiple relational tables stored in a SQLite database:
 
 These datasets are merged to create a **vendor_sales_summary** table for analytics.
 
+## Dataset Note
+Due to GitHub file size limitations, the raw CSV datasets are not included in this repository.
+The analysis pipeline is fully reproducible, and the data schema and processing logic are provided.
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -148,3 +153,4 @@ The p-value indicates a **statistically significant difference**, confirming tha
 python -m venv env
 source env/bin/activate  # macOS/Linux
 env\Scripts\activate     # Windows
+
