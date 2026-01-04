@@ -146,11 +146,7 @@ The p-value indicates a **statistically significant difference**, confirming tha
 
 ---
 
-## ▶️ How to Run the Project
+## PowerBI Output 
+![image alt](Screenshot 2026-01-04 230525.png)
 
-### 1️⃣ Create Virtual Environment
-```bash
-python -m venv env
-source env/bin/activate  # macOS/Linux
-env\Scripts\activate     # Windows
 
