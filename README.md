@@ -147,6 +147,7 @@ The p-value indicates a **statistically significant difference**, confirming tha
 ---
 
 ## PowerBI Output 
-![image alt](Screenshot 2026-01-04 230525.png)
+![image alt](https://github.com/AritraBanerjee-09/Vendor-Performace-Analysis-Using-PowerBI/blob/main/Screenshot%202026-01-04%20230525.png?raw=true)
+
 
 
